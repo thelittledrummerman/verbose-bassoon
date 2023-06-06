@@ -1,1 +1,1 @@
-# verbose-bassoon this is my first attempt at a simple point and click game. very much a beginner. any tips, help, etc. would be greatly appreciated!!
+# verbose-bassoon this is my first attempt at a simple point and click game. very much a beginner. any comments, tips, help, or anything would be greatly appreciated!!
